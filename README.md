@@ -26,23 +26,15 @@ Perfect for learning **OOP**, **collections**, **input handling**, **Encapsulati
 
 ---
 
-## How to Run
-
-### Prerequisites
-- Java JDK 8 or higher
-- Any IDE (IntelliJ, Eclipse, VS Code) or terminal
-
----
-
 ## Menu Options
 
--1 → Add Book
--2 → Issue Book
--3 → Return Book
--4 → See Available Books
--5 → See Issued Books
--6 → See Library Records
--7 → Exit
+- 1 → Add Book
+- 2 → Issue Book
+- 3 → Return Book
+- 4 → See Available Books
+- 5 → See Issued Books
+- 6 → See Library Records
+- 7 → Exit
 
 ---
 
@@ -64,9 +56,9 @@ src/
 
 └── io/github/mubashirahmed7/librarymanagement/
 
-    ├── LibraryManagement.java      (Main class with menu)
+   ├── LibraryManagement.java      (Main class with menu)
 
-    └── LibraryManagement2.java     (Core logic)
+   └── LibraryManagement2.java     (Core logic)
 
 ---
 

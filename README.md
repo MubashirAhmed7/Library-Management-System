@@ -34,7 +34,7 @@ Perfect for learning **OOP**, **collections**, **input handling**, **Encapsulati
 
 ---
 
-### Menu Options
+## Menu Options
 
 1 → Add Book
 2 → Issue Book
@@ -44,30 +44,44 @@ Perfect for learning **OOP**, **collections**, **input handling**, **Encapsulati
 6 → See Library Records
 7 → Exit
 
-### Sample Registered Students In Central DataBase
+---
+
+## Sample Registered Students In Central DataBase
 
 Harry, John, Ahmed, Sharma, Rahul, Shreya, Jarry, alen
 
-### Default Books
+---
+
+## Default Books
 
 data structure, algorithm, dbms, networking, design pattern, java, social, system design, c++
+
+---
 
 ## Project Structure
 
 src/
+
 └── io/github/mubashirahmed7/librarymanagement/
+
 ├── LibraryManagement.java      (Main class with menu)
+
 └── LibraryManagement2.java     (Core logic)
+
+---
 
 ## Author
 
-Mohd Mubashir Ahmed
+**Mohd Mubashir Ahmed**
 GitHub Profile
+
+---
 
 ## License
 
 This project is open source and available under the MIT License.
 
+---
 
-**Star this repo if you found it helpful!
-Contributions welcome via Pull Requests.**
+***Star this repo if you found it helpful!
+Contributions welcome via Pull Requests.***

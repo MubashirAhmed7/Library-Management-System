@@ -1,6 +1,6 @@
 # Library Management System (Java Console App)
 
-A **simple, menu-driven Library Management System** built in **Java** to manage books, issue/return operations, and track library history with timestamps.
+A **simple, menu-driven Library Management System** built in **Java** to **manage books, issue/return operations,** and **track library history with timestamps**.
 
 Perfect for learning **OOP**, **collections**, **input handling**, **Encapsulation** and **console applications**.
 
